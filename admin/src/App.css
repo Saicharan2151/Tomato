@@ -1,0 +1,9 @@
+.app-content {
+    display: flex;
+  }
+  
+  .main-content {
+    flex: 1; /* Take up remaining space */
+     /* Add some padding if needed */
+  }
+  
